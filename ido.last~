@@ -1,0 +1,500 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/Seb/code/witan.send-runs/Brent/" . "raw_data/")
+ ("/Users/Seb/code/witan.ap/src/" . "tutu/")
+ ("/Users/Seb/code/witan.ap/" . "src/")
+ ("/Users/Seb/code/witan.send-runs/Ealing/" . "data/")
+ ("/Users/Seb/code/witan.send/data/Tower-Hamlets-30-01-18/version-A/" . "data/")
+ ("/Users/Seb/code/witan.send/data/Tower-Hamlets-30-01-18/" . "version-A/")
+ ("/Users/Seb/code/witan.phyrexian/data/data_to_ingest/" . "sen2_statements/")
+ ("/Users/Seb/code/witan.phyrexian/target/" . "Suffolk/")
+ ("/Users/Seb/code/witan.send/data/demo/" . "data/")
+ ("/Users/Seb/code/witan.send-runs/sen2/" . "Havering/")
+ ("/Users/Seb/code/witan.send/data/Darlington/" . "data/")
+ ("/Users/Seb/code/witan.send/src/clj/witan/send/" . "model/")
+ ("/Users/Seb/code/witan.send-runs/" . "Brent/")
+ ("/Users/Seb/code/witan.disco/src/witan/" . "disco/")
+ ("/Users/Seb/code/witan.disco/src/" . "witan/")
+ ("/Users/Seb/code/witan.disco/" . "src/")
+ ("/Users/Seb/code/hackney-vr/notebooks/" . "utils/")
+ ("/Users/Seb/code/hackney-vr/" . "notebooks/")
+ ("/Users/Seb/code/kixi.weymouth/src/kixi/" . "weymouth/")
+ ("/Users/Seb/code/kixi.weymouth/src/" . "kixi/")
+ ("/Users/Seb/code/kixi.weymouth/test/" . "kixi/")
+ ("/Users/Seb/code/kixi.weymouth/" . "src/")
+ ("/Users/Seb/code/witan.send/.git/logs/refs/" . "heads/")
+ ("/Users/Seb/code/witan.send/.git/logs/" . "refs/")
+ ("/Users/Seb/code/witan.send/.git/" . "logs/")
+ ("/Users/Seb/.lein/" . "self-installs/")
+ ("/Users/Seb/code/test-cljtools/src/" . "test_cljtools/")
+ ("/Users/Seb/code/test-cljtools/" . "src/")
+ ("/Users/Seb/code/munge-camden/test/" . "munge_camden/")
+ ("/Users/Seb/code/munge-camden/src/" . "munge_camden/")
+ ("/Users/Seb/code/munge-camden/" . "test/")
+ ("/Users/Seb/code/ch3-correlation/src/cljds/" . "ch3/")
+ ("/Users/Seb/code/ch3-correlation/src/" . "cljds/")
+ ("/Users/Seb/code/ch3-correlation/" . "src/")
+ ("/Users/Seb/code/witan.send/data/" . "demo/")
+ ("/Users/Seb/code/parliamentary_text_analysis/" . "Code/")
+ ("/Users/Seb/code/witan.send/src/cljs/witan/" . "send/")
+ ("/Users/Seb/code/witan.send/src/cljs/" . "witan/")
+ ("/Users/Seb/code/witan.send/src/cljc/witan/" . "send/")
+ ("/Users/Seb/code/witan.send/src/cljc/" . "witan/")
+ ("/Users/Seb/code/witan.send/src/clj/witan/" . "send/")
+ ("/Users/Seb/code/witan.send/src/clj/" . "witan/")
+ ("/Users/Seb/code/kixi-data-science/" . "wiki/")
+ ("/Users/Seb/code/foobar/src/" . "foobar/")
+ ("/Users/Seb/code/foobar/" . "src/")
+ ("/Users/Seb/code/witan.httpapi/src/migrators/" . "dynamodb/")
+ ("/Users/Seb/code/witan.httpapi/test/witan/httpapi/" . "components/")
+ ("/Users/Seb/code/witan.httpapi/test/witan/" . "httpapi/")
+ ("/Users/Seb/code/witan.httpapi/test/" . "witan/")
+ ("/Users/Seb/code/witan.httpapi/src/witan/httpapi/" . "components/")
+ ("/Users/Seb/code/witan.httpapi/src/witan/" . "httpapi/")
+ ("/Users/Seb/code/witan.httpapi/src/" . "witan/")
+ ("/Users/Seb/code/witan.httpapi/" . "src/")
+ ("/Users/Seb/.aws/" . "etc/")
+ ("/Users/Seb/code/dippi/test/" . "dippi/")
+ ("/Users/Seb/code/steamweb.clj/src/" . "steamweb/")
+ ("/Users/Seb/code/steamweb.clj/" . "src/")
+ ("/Users/Seb/code/dippi/src/" . "dippi/")
+ ("/Users/Seb/code/dippi/" . "src/")
+ ("/Users/Seb/code/witan.phyrexian/data/" . "data_to_ingest/")
+ ("/Users/Seb/code/ch9-time-series/src/cljds/" . "ch9/")
+ ("/Users/Seb/code/ch9-time-series/src/" . "cljds/")
+ ("/Users/Seb/code/ch9-time-series/" . "src/")
+ ("/Users/Seb/code/employment-exploration/src/employment/" . "exploration/")
+ ("/Users/Seb/code/employment-exploration/src/" . "employment/")
+ ("/Users/Seb/code/employment-exploration/" . "src/")
+ ("/Users/Seb/code/witan.gwyn/resources/" . "clj/")
+ ("/Users/Seb/code/mental-health-dashboard/src/r/" . "data/")
+ ("/Users/Seb/code/mental-health-dashboard/src/" . "r/")
+ ("/Users/Seb/code/mental-health-dashboard/resources/" . "r/")
+ ("/Users/Seb/code/mental-health-dashboard/" . "src/")
+ ("/Users/Seb/code/witan.send/test/witan/send/" . "acceptance/")
+ ("/Users/Seb/code/school-demand-to-capacity/src/r/" . "data/")
+ ("/Users/Seb/code/witan.send/test/witan/" . "send/")
+ ("/Users/Seb/code/witan.send/test/" . "witan/")
+ ("/Users/Seb/code/school-demand-to-capacity/src/" . "r/")
+ ("/Users/Seb/code/school-demand-to-capacity/resources/" . "r/")
+ ("/Users/Seb/code/school-demand-to-capacity/doc/" . "images/")
+ ("/Users/Seb/code/school-demand-to-capacity/" . "src/")
+ ("/Users/Seb/code/witan.send/src/witan/" . "send/")
+ ("/Users/Seb/code/witan.send/src/" . "clj/")
+ ("/Users/Seb/code/witan.send/" . "src/")
+ ("/Users/" . "Seb/")
+ ("/Users/Seb/code/an-media.loader/src/" . "controller/")
+ ("/Users/Seb/code/an-media.loader/" . "src/")
+ ("/Users/Seb/code/kixi.anm-backlog/test/" . "kixi/")
+ ("/Users/Seb/code/kixi.anm-backlog/src/" . "kixi/")
+ ("/Users/Seb/code/kixi.anm-backlog/" . "src/")
+ ("/Users/Seb/Documents/Dropbox/Job Applications/2015/" . "MastodonC/")
+ ("/Users/Seb/Documents/Dropbox/Job Applications/" . "2015/")
+ ("/Users/Seb/Documents/Dropbox/" . "Job Applications/")
+ ("/Users/Seb/Documents/" . "Dropbox/")
+ ("/Users/Seb/code/kixi.anm-monitoring/test/" . "kixi/")
+ ("/Users/Seb/.emacs.d/elpa/" . "clj-refactor-2.2.0/")
+ ("/Users/Seb/.emacs.d/" . "elpa/")
+ ("/Users/Seb/code/kixi.anm-monitoring/src/" . "kixi/")
+ ("/Users/Seb/code/kixi.anm-monitoring/" . "test/")
+ ("/Users/Seb/code/kixi.hecuba.weather/src/kixi/hecuba/" . "weather/")
+ ("/Users/Seb/code/kixi.hecuba.weather/src/kixi/" . "hecuba/")
+ ("/Users/Seb/code/kixi.hecuba.weather/src/" . "kixi/")
+ ("/Users/Seb/code/kixi.hecuba.weather/" . "src/")
+ ("/Users/Seb/code/witan.r.models/src/clj/witan/" . "models/")
+ ("/Users/Seb/code/witan.r.models/src/clj/" . "witan/")
+ ("/Users/Seb/code/witan.r.models/src/GenericCCM/" . "test_runs/")
+ ("/Users/Seb/code/witan.r.models/src/" . "r/")
+ ("/Users/Seb/code/witan.r.models/" . "src/")
+ ("/Users/Seb/code/ch2-inference/src/cljds/" . "ch2/")
+ ("/Users/Seb/code/ch2-inference/src/" . "cljds/")
+ ("/Users/Seb/code/ch2-inference/" . "src/")
+ ("/Users/Seb/code/witan.models.econscratch/src/" . "witan/")
+ ("/Users/Seb/code/witan.models.econscratch/test/" . "witan/")
+ ("/Users/Seb/code/witan.models.econscratch/" . "src/")
+ ("/Users/Seb/code/anning/src/" . "anning/")
+ ("/Users/Seb/code/anning/" . "src/")
+ ("/Users/Seb/code/kixi.stats/test/kixi/" . "stats/")
+ ("/Users/Seb/code/kixi.stats/test/" . "kixi/")
+ ("/Users/Seb/code/kixi.stats/src/kixi/" . "stats/")
+ ("/Users/Seb/code/kixi.stats/src/" . "kixi/")
+ ("/Users/Seb/code/kixi.stats/" . "src/")
+ ("/Users/Seb/code/kixi.gwyn/test/witan/gwyn/" . "acceptance/")
+ ("/Users/Seb/code/kixi.gwyn/test/witan/" . "gwyn/")
+ ("/Users/Seb/code/airsome/test/" . "airsome/")
+ ("/Users/Seb/code/airsome/src/" . "airsome/")
+ ("/Users/Seb/code/airsome/" . "data/")
+ ("/Users/Seb/code/steamie.window/test/" . "steamie/")
+ ("/Users/Seb/code/witan.gwyn/test/witan/gwyn/" . "acceptance/")
+ ("/Users/Seb/code/witan.gwyn/test/witan/" . "gwyn/")
+ ("/Users/Seb/code/witan.gwyn/test/" . "witan/")
+ ("/Users/Seb/code/witan.gwyn/src/witan/" . "gwyn/")
+ ("/Users/Seb/code/witan.gwyn/src/" . "witan/")
+ ("/Users/Seb/code/witan.gwyn/" . "test/")
+ ("/Users/Seb/code/core.matrix/src/main/clojure/clojure/core/matrix/" . "impl/")
+ ("/Users/Seb/code/core.matrix/src/main/clojure/clojure/core/" . "matrix/")
+ ("/Users/Seb/code/core.matrix/src/main/clojure/clojure/" . "core/")
+ ("/Users/Seb/code/core.matrix/src/main/clojure/" . "clojure/")
+ ("/Users/Seb/code/core.matrix/src/main/" . "clojure/")
+ ("/Users/Seb/code/core.matrix/src/" . "main/")
+ ("/Users/Seb/code/core.matrix/" . "src/")
+ ("/Users/Seb/code/c40/.git/" . "hooks/")
+ ("/Users/Seb/code/c40/" . ".git/")
+ ("/Users/Seb/code/kixi.gwyn/test/kixi/gwyn/" . "acceptance/")
+ ("/Users/Seb/code/kixi.gwyn/test/kixi/" . "gwyn/")
+ ("/Users/Seb/code/kixi.gwyn/src/kixi/" . "gwyn/")
+ ("/Users/Seb/code/kixi.gwyn/src/" . "kixi/")
+ ("/Users/Seb/code/kixi.gwyn/resources/" . "clj/")
+ ("/Users/Seb/code/kixi.gwyn/test/" . "witan/")
+ ("/Users/Seb/code/kixi.gwyn/" . "test/")
+ ("/Users/Seb/code/kixi.solaire/src/kixi/" . "solaire/")
+ ("/Users/Seb/code/kixi.pipe/src/" . "kixipipe/")
+ ("/Users/Seb/code/kixi.pipe/" . "src/")
+ ("/Users/Seb/code/kixi.solaire/src/" . "kixi/")
+ ("/Users/Seb/code/kixi.solaire/" . "src/")
+ ("/Users/Seb/code/witan.models.demography/doc/" . "images/")
+ ("/Users/Seb/code/witan.models.demography/datasets/test_datasets/r_outputs_for_testing/" . "core/")
+ ("/" . "cores/")
+ ("/Users/Seb/.m2/repository/net/mikera/core.matrix/" . "0.32.1/")
+ ("/Users/Seb/code/kaylee-tools/" . "org/")
+ ("/Users/Seb/code/witan.phyrexian/test/witan/" . "phyrexian/")
+ ("/Users/Seb/code/witan.phyrexian/src/witan/" . "phyrexian/")
+ ("/Users/Seb/code/witan.models/test/witan/" . "models/")
+ ("/Users/Seb/code/witan.phyrexian/test/" . "witan/")
+ ("/Users/Seb/code/quaker-computation/test/" . "quaker_computation/")
+ ("/Users/Seb/code/quaker-computation/target/" . "classes/")
+ ("/Users/Seb/code/kixi.bridges/test/" . "bridges/")
+ ("/Users/Seb/code/witan.workspace-api/src/" . "witan/")
+ ("/Users/Seb/code/witan.workspace-api/" . "src/")
+ ("/Users/Seb/code/witan.models/src/clj/" . "witan/")
+ ("/Users/Seb/code/witan.models/src/" . "GenericCCM/")
+ ("/Users/Seb/code/witan.phyrexian/src/" . "witan/")
+ ("/Users/Seb/code/witan.phyrexian/" . "src/")
+ ("/Users/Seb/code/scrub.ons/src/" . "scrub/")
+ ("/Users/Seb/code/scrub.ons/" . "src/")
+ ("/Users/Seb/code/pompeii/src/" . "pompeii/")
+ ("/Users/Seb/code/pompeii/" . "src/")
+ ("/Users/Seb/code/witan.workspace-executor/src/witan/" . "workspace_executor/")
+ ("/Users/Seb/code/witan.workspace-executor/src/" . "witan/")
+ ("/Users/Seb/code/witan.workspace-executor/" . "src/")
+ ("/Users/Seb/code/enlive-tutorial/src/" . "tutorial/")
+ ("/Users/Seb/code/enlive-tutorial/" . "src/")
+ ("/Users/Seb/code/crajure/src/" . "crajure/")
+ ("/Users/Seb/code/crajure/" . "src/")
+ ("/Users/Seb/code/average-coverage/src/" . "average_coverage/")
+ ("/Users/Seb/code/average-coverage/" . "src/")
+ ("/Users/Seb/code/ch1-statistics/src/cljds/" . "ch1/")
+ ("/Users/Seb/code/ch1-statistics/src/" . "cljds/")
+ ("/Users/Seb/code/ch1-statistics/" . "src/")
+ ("/Users/Seb/code/witan.models.demography/datasets/test_datasets/model_inputs/" . "mig/")
+ ("/Users/Seb/code/witan.models.demography/datasets/test_datasets/" . "r_outputs_for_testing/")
+ ("/Users/Seb/code/witan.models.demography/test/witan/models/dem/ccm/" . "core/")
+ ("/Users/Seb/code/witan.models.demography/datasets/default_datasets/" . "migration/")
+ ("/Users/Seb/code/witan.models.demography/datasets/" . "default_datasets/")
+ ("/Users/Seb/code/watershed/src/" . "watershed/")
+ ("/Users/Seb/code/watershed/" . "src/")
+ ("/Users/Seb/code/anglican/" . "examples/")
+ ("/Users/Seb/code/ch4-classification/src/cljds/" . "ch4/")
+ ("/Users/Seb/code/ch4-classification/src/" . "cljds/")
+ ("/Users/Seb/code/ch4-classification/" . "src/")
+ ("/Users/Seb/code/witan.models.demography/src-cli/witan/" . "models/")
+ ("/Users/Seb/code/witan.models.demography/src-cli/" . "witan/")
+ ("/Users/Seb/code/witan.models.demography/test/witan/models/dem/" . "ccm/")
+ ("/Users/Seb/code/witan.models.demography/test/witan/models/" . "acceptance/")
+ ("/Users/Seb/code/quaker-computation/src/" . "quaker_computation/")
+ ("/Users/Seb/code/quaker-computation/" . "src/")
+ ("/Users/Seb/code/witan.models.demography/src/witan/models/dem/ccm/" . "mig/")
+ ("/Users/Seb/code/kixi.bridges/src/" . "bridges/")
+ ("/Users/Seb/code/kixi.bridges/" . "src/")
+ ("/Users/Seb/code/witan.models.demography/resources/" . "default_datasets/")
+ ("/Users/Seb/code/witan.models/test/" . "witan/")
+ ("/Users/Seb/code/witan.models/" . "src/")
+ ("/Users/Seb/code/witan.models.demography/test/witan/" . "models/")
+ ("/Users/Seb/code/witan.models.demography/test/" . "witan/")
+ ("/Users/Seb/code/witan.models.demography/src/witan/models/dem/" . "ccm/")
+ ("/Users/Seb/code/witan.models.demography/src/witan/models/" . "dem/")
+ ("/Users/Seb/code/witan.models.demography/src/witan/" . "models/")
+ ("/Users/Seb/code/witan.models.demography/src/" . "witan/")
+ ("/Users/Seb/code/witan.models.demography/" . "test/")
+ ("/Users/Seb/code/steamie.window/src/" . "steamie/")
+ ("/Users/Seb/code/steamie.window/" . "src/")
+ ("/Users/Seb/code/" . "witan.send/")
+ ("/Users/Seb/emac-configs/" . "home-lightsaber-kit/")
+ ("/Users/Seb/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/Seb/.emacs.d/"
+ "/Users/Seb/code/witan.send/src/clj/witan/send/model/"
+ "/Users/Seb/code/witan.send/doc/"
+ "/Users/Seb/code/witan.send/src/clj/witan/send/"
+ "/Users/Seb/code/witan.send/data/demo/"
+ "/Users/Seb/"
+ "/Users/Seb/code/witan.send-runs/Brent/raw_data/"
+ "/Users/Seb/code/witan.phyrexian/src/witan/phyrexian/"
+ "/Users/Seb/code/witan.send/test/witan/send/"
+ "/Users/Seb/code/witan.send/test/witan/send/acceptance/"
+ "/Users/Seb/Documents/Uni/PhD/Thesis/4.Selection/"
+ "/Users/Seb/code/witan.send-runs/sen2/Havering/"
+ "/Users/Seb/Documents/Uni/PhD/Thesis/4.Selection/trees/"
+ "/Users/Seb/Documents/Uni/PhD/Thesis/2.RNASeq/RNA_trees/"
+ "/Users/Seb/code/witan.ap/src/tutu/"
+ "/Users/Seb/code/witan.ap/src/"
+ "/Users/Seb/code/kixi.stats/src/kixi/stats/"
+ "/Users/Seb/code/witan.send/"
+ "/Users/Seb/code/kixi.stats/"
+ "/Users/Seb/code/witan.send-runs/Ealing/data/"
+ "/Users/Seb/code/witan.phyrexian/data/data_to_ingest/sen2_statements/"
+ "/Users/Seb/code/witan.send/data/Tower-Hamlets-30-01-18/version-A/"
+ "/Users/Seb/code/witan.send-runs/sen2/Brent/"
+ "/Users/Seb/code/witan.send/data/Suffolk_SEN2/"
+ "/Users/Seb/code/witan.send/data/Suffolk/"
+ "/Users/Seb/code/witan.phyrexian/test/witan/phyrexian/"
+ "/Users/Seb/code/witan.send/untitled/"
+ "/Users/Seb/code/witan.send/data/demo/results/"
+ "/Users/Seb/code/witan.phyrexian/target/Suffolk/"
+ "/Users/Seb/code/witan.phyrexian/"
+ "/Users/Seb/code/kaylee-tools/org/"
+ "/Users/Seb/code/witan.send/data/ESCC/"
+ "/Users/Seb/code/witan.send/data/demo/data/"
+ "/Users/Seb/code/witan.send-runs/sen2/Barking_and_Dagenham/"
+ "/Users/Seb/code/witan.send/data/Darlington/"
+ "/Users/Seb/code/witan.send-runs/sen2/"
+ "/Users/Seb/code/witan.send-runs/test/"
+ "/Users/Seb/code/witan.send/data/West_Sussex_SEN2/"
+ "/Users/Seb/code/witan.send/data/Lancashire_SEN2/"
+ "/Users/Seb/code/witan.send/src/R/"
+ "/Users/Seb/.lein/"
+ "/Users/Seb/code/witan.send/src/cljs/witan/send/"
+ "/Users/Seb/code/hackney-vr/notebooks/utils/"
+ "/Users/Seb/code/d3_tutorial/"
+ "/Users/Seb/code/witan.disco/"
+ "/Users/Seb/code/witan.disco/src/witan/"
+ "/Users/Seb/code/hackney-vr/data/"
+ "/Users/Seb/code/hackney-vr/notebooks/"
+ "/Users/Seb/code/witan.send/notebooks/"
+ "/Users/Seb/code/kixi.weymouth/src/kixi/weymouth/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "input.clj"
+ "underpinnings.tex"
+ "main.clj"
+ "config.edn"
+ "prepare.clj"
+ ".tmux.conf"
+ "need-setting-costs - 2016 - Final v2.csv"
+ "send.clj"
+ "sen2_processing_tool.clj"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/Seb/.emacs.d/" (23534 51568 0 0) "url/" "snippets/" "README.org" "projectile.cache" "projectile-bookmarks.eld" "old-elpa/" "init.el" "ido.last~" "ido.last" "eshell/" "elpa.tar.gz" "elpa/" "custom.el" "cider-history" "bookmarks" "auto-save-list/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/Seb/" (23534 51508 0 0) "VirtualBox VMs/" "Sites/" "site_tables/" "site/" "Public/" "Pictures/" "openvpn/" "new/" "Music/" "Movies/" "Mesquite_Support_Files/" "Library/" "Incompatible Software/" "igv/" "iCloud Drive (Archive) - 1/" "iCloud Drive (Archive)/" "hob/" "go/" "emac-configs/" "edit" "Downloads/" "Documents/" "Desktop/" "code/" "bin/" "Applications/" ".zsnes/" ".Xauthority" ".virtualenvs/" ".viminfo" ".vim/" ".vagrant.d/" ".vagrant/" ".Trash/" ".tmux.conf" ".terraform.d/" ".t_coffee/" ".subversion/" ".ssh/" ".sqlworkbench/" ".spyder-py3/" ".smex-items" ".serverauth.71056" ".serverauth.6469" ".sepp/" ".secrets.edn" ".saves/" ".rstudio-desktop/" ".rnd" ".Rhistory" ".RData" ".Rapp.history" ".R/" ".qgis2/" ".python_history" ".python-eggs/" ".profile.pysave" ".profile.macports-saved_2015-06-30_at_14:56:03" ".profile" ".plotly/" ".photorec.cfg" ".pauphistory" ".oracle_jre_usage/" ".npm/" ".node-gyp/" ".nbprofiler/" ".mixxx/" ".matplotlib/" ".m2/" ".local/" ".lesshst" ".lein-old/" ".lein/" ".jupyter/" ".julia_history" ".jswingreader/" ".jalview_properties" ".iterm2_shell_integration.bash" ".iterm2/" ".ipython/" ".ipynb_checkpoints/" ".ipfs/" ".ievms/" ".hecuba.edn" ".gnupg_pre_2.1/" ".gnupg/" ".gitconfig" ".git_template/" ".fontconfig/" ".emboss_error.txt" ".emacs.d.old/" ".emacs.d/" ".dvdcss/" ".DS_Store" ".dropbox-two/" ".dropbox/" ".docker/" ".dcos/" ".cups/" ".cpan/" ".config/" ".cisco/" ".CFUserTextEncoding" ".cassandra/" ".cache/" ".boot/" ".bash_sessions/" ".bash_profile-anaconda3.bak" ".bash_profile" ".bash_history" ".aws/" ".atom/" ".aspera/" ".ansible/" ".Anodyne/" ".anm-monitoring-config.edn" ".anm-backlog-config.edn" ".AliView/" "../" "./")
+
+ ("/Users/Seb/code/witan.send/doc/" (23534 50914 0 0) "underpinnings.tex" "underpinnings.pdf" "underpinnings.log" "underpinnings.dvi" "underpinnings.blg" "underpinnings.bbl" "underpinnings.aux" "scenarios.md" "run-model-iteration.md" "model.md" "images/" "data-flow.dot" "config.md" "../" "./")
+
+ ("/Users/Seb/code/witan.send/src/clj/witan/send/" (23534 49641 0 0) "validate_model.clj" "utils.clj" "step.clj" "states.clj" "send.clj" "schemas.clj" "report.clj" "params.clj" "multi_config.clj" "model/" "metadata.clj" "maths.clj" "main.clj" "distributions.clj" "constants.clj" "check_inputs.clj" ".DS_Store" "#send.clj#" "../" "./")
+
+ ("/Users/Seb/code/witan.send/" (23534 49735 0 0) "witan.send.Rproj" "utils/" "test/" "target/" "src/" "results/" "resources/" "README.md" "project.clj" "new-valid-settings.csv" "gg4clj.r" "doc/" "data/" "ap.zip" "ap/" ".Rproj.user/" ".Rhistory" ".RData" ".lein-repl-history" ".lein-failures" ".ipynb_checkpoints/" ".gitignore" ".git/" ".DS_Store" ".circleci/" "#note#" "../" "./")
+
+ ("/Users/Seb/code/kixi.weymouth/src/kixi/weymouth/" (23274 50759 0 0) "witanhttp.clj" "poly.clj" "geo.clj" "classification.clj" "addressbase.clj" "../" "./")
+
+ ("/Users/Seb/code/witan.disco/src/witan/" (23330 31385 0 0) "disco.clj" "disco/" "../" "./")
+
+ ("/Users/Seb/code/witan.disco/" (23330 31385 0 0) "test/" "src/" "README.md" "project.clj" "LICENSE" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/sen2/" (23533 44181 0 0) "Worcestershire/" "Wiltshire/" "Swindon/" "Suffolk/" "Shropshire/" "Rotherham_new/" "Rotherham/" "North_Lincolnshire/" "Newcastle_upon_Tyne/" "Middlesbrough/" "Lewisham/" "Hounslow/" "Havering/" "Hartlepool/" "Harrow/" "Haringey/" "Hackney/" "Greenwich/" "Gateshead/" "Essex_new/" "Essex/" "Ealing/" "Durham/" "Derbyshire/" "Darlington/" "Croydon/" "Brent/" "Bolton/" "Blackpool/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/demo/data/" (23533 43577 0 0) "valid-states.csv" "transitions2.csv" "transitions.csv" "test.csv" "population2.csv" "population.csv" "modify-settings2.csv" "modify-settings1.csv" "costs.csv" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/demo/results/" (23533 44662 0 0) "transitions.edn" "SEND_Log.md" "runtime-metadata.edn" "runtime-config.edn" "Output_Setting.csv" "Output_Need.csv" "Output_Count.csv" "Output_Cost.csv" "Output_AY_State.csv" "Output_AY_Group.csv" "Output_AY.csv" "../" "./")
+
+ ("/Users/Seb/code/witan.phyrexian/data/data_to_ingest/sen2_statements/" (23533 44011 0 0) "~$Statements_of_SEN_and_EHC_plans_2018_Main_Tables.xlsx" "Statements_of_SEN_and_EHC_plans_2018_Main_Tables.xlsx" "SFR37_2017_Local_authority_tables.xlsx" "SFR29_2016_Local_authority_tables.xlsx" "SFR25-2015_TABLES_LA.xlsx" "SFR22-2017_Main_Tables.xlsx" "SFR17-2016_Main_Tables.xlsx" "SFR14-2015_Tables.xlsx" "setting_keys.xlsx" "setting_keys.csv" "SEN_2018_LA_tables.xlsx" "RA_2017-18_data_by_LA.xlsx" "historical_plus_2016_SNPP_population.csv" "convert_keys_need_2017.csv" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/Ealing/data/" (23532 9092 0 0) "valid-setting-academic-years.csv" "transitions.csv" "raw_data/" "population.csv" "need-setting-costs.csv" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/Documents/Uni/PhD/Thesis/2.RNASeq/RNA_trees/" (23528 10075 0 0) "treeCl.py" "recip_by_ptero/" "recip_by_homo/" "putative_spp.tre" "Old_tree_bad_alignments/" "New_figure_3.tre" "New_figure_3.pdf" "New_figure_2.tre" "New_figure_2.pdf" "New_figure_1.tre" "New_figure_1.pdf" "mt.tre" "Figure 1.tre" "cytb_w_online.tre" "bayesian109AA.tre" "astral_108_better.tre" "astral_108.tre" "618_gene_better.tre" "109genes_wo_homo.tre" "109genes_w_homo.tre" "108_cleanedup/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.phyrexian/src/witan/phyrexian/" (23534 33616 0 0) "utils.clj" "sen2_processing_tool.clj" "population.clj" "ons_ingester.clj" "lfb_ingester.clj" "gss_harmonizer.clj" "dclg_ingester.clj" "camden_transitions.clj" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.workspace-api/" (22458 61339 0 0) "test/" "target/" "src/" "README.md" "project.clj" "pom.xml" "LICENSE" "doc/" "circle.yml" "CHANGELOG.md" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/Seb/code/witan.phyrexian/" (23533 43880 0 0) "transitions.csv" "test/" "target/" "src/" "resources/" "README.md" "project.clj" "pom.xml.asc" "pom.xml" "doc/" "data/" ".nrepl-port" ".lein-failures" ".gitignore" ".git/" ".DS_Store" ".circleci/" "../" "./")
+
+ ("/Users/Seb/code/witan.send/src/clj/witan/send/model/" (23534 33055 0 0) "run.clj" "prepare.clj" "output.clj" "input.clj" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/demo/" (23533 43577 0 0) "validation/" "transitions_demo.csv" "Total_Population_w_percentile_bounds.pdf" "Total_Population_Comparative_Zeroindexed.pdf" "Total_Population_Comparative.pdf" "Total_Cost_Comparative_Zeroindexed.pdf" "Total_Cost_Comparative.pdf" "Total_Cost.pdf" "results-ave-gap-filling/" "results-alt/" "results-1000/" "results-10/" "results/" "Output_Count3.csv" "Output_Count2.csv" "Output_Count1.csv" "data/" "config.edn" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/test/witan/send/" (23533 43577 0 0) "utils_test.clj" "states_test.clj" "send_test.clj" "params_test.clj" "model/" "check_inputs_test.clj" "acceptance/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/test/witan/send/acceptance/" (23533 32937 0 0) "validate_model_test.clj" "model_test.clj" "../" "./")
+
+ ("/Users/Seb/Documents/" (23293 46157 0 0) "Uni/" "Tom's Stag.m4v" "TLR/" "Thumbs.db" "test.py" "Spark Reviews/" "Richards Speech.docx" "Python_for_Biologists/" "NHM/" "My Saved Places.gmap" "Microsoft User Data/" "Metrosideros/" "Mesquite_Support_Files/" "LISTENER'S 6 MIX FORM.doc" "Kingfishers/" "Key to insect orders.docx" "Intheeventofaterroristattack.doc" "EngrishinJapan.pps" "eBay.xlsx" "Dropbox/" "Comic Images/" "Bennetts Speech.doc" "Ancestors Tale notes.doc" "Ali Soundbites/" "A few simple tips for playing the piano.doc" ".parallels-vm-directory/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/Documents/Uni/" (22156 57393 0 0) "signature.png" "References_and_citations.doc" "Postgrad Application/" "Postdoc Application/" "PhD/" "orang notes.docx" "MSc/" "MOLE/" "MinION/" "list of all modules.doc" "Job Search.doc" "Foundation Science/" "Cole Museum/" "Careers Slides - Pooler Feb 10.pdf" "BSc/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/Documents/Uni/PhD/" (23444 62053 0 0) "Thesis/" "Targeted Enrichment/" "Sequencing/" "rnaseq_sequences/" "Reports_&_admin/" "Reagent Handbooks/" "Programming/" "Presentations and Posters/" "Phylogenies/" "Photo 30-09-2016, 12 50 18.jpg" "Papers/" "Notes/" "Median_interval_analysis/" "Mapping/" "Images/" "Grant Applications/" "Genes/" "Finches/" "Field_work/" "Databases/" "CGR/" "Bioanalyser/" "Bat software/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/Documents/Uni/PhD/Thesis/" (23141 46656 0 0) "spp_to_check.xls" "schedule2.xlsx" "schedule.xlsx" "Researchfishguide_Feb2016_v2.pdf" "Mao et al-revision-Nov 22.doc" "Helen Lit Review.doc" "bait_counts.xlsx" "Bait capture protocol.docx" "5.Discussion&References/" "4.Selection/" "3.Museumomics/" "2.RNASeq/" "1.Intro/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/Documents/Uni/PhD/Thesis/4.Selection/" (23532 23391 0 0) "trees/" "Thesis_v27.10.16.docx" "Thesis_v21.10.16.docx" "Thesis_v16.10.16.docx" "table_6.xlsx" "table_5.xlsx" "table_4.xlsx" "table_3.xlsx" "table_2.xlsx" "table_1.xlsx" "species.gene.count.over.90spp.csv" "species.gene.count.over.90spp" "species.gene.count.csv" "species.gene.count" "New_Figure_3c.tre" "New_Figure_3b.tre" "New_Figure_3a.tre" "New_Figure_3a.pdf" "New_Figure_2.tre" "New_Figure_2.pdf" "New_Figure_1.pdf" "lrt/" "Figure_4.pdf" "Figure_3c.png" "Figure_3b.png" "Figure_3a.png" "Figure_3.xcf" "Figure_3.png" "Figure_2.pdf" "Figure_1.pdf" "ExaML_result.tre" "Astral_spp.tre" "8.Chapter Five - Phylogenies and discordance.docx" "7.Chapter Four - Selection.docx" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/Documents/Uni/PhD/Thesis/4.Selection/trees/" (23532 16380 0 0) "trees_881/" "trees/" "new_astral_2455_RhFIG.tre" "new_astral_2455_Rh.tre" "new_881_mareFIG.tre" "new_881_mare.tre" "new_864_mareFIG.tre" "new_864_mare.tre" "my_tree_scores.xlsx" "good_881/" "good/" "Figure_1.tre" "exon70_rm.tre" "exon70_mare_rm.tre" "exon70_mare.tre" "exon70.tre" "exon60_mare.tre" "exon60.tre" "change_names.sh" "bigger_pulldown_spp.tre" "bad/" "astral_725_noHi.tre" "astral_2455_Rh.tre" "astral_2436_noHi.tre" "alignments_881/" "alignments/" "95_no_Hi.tre" "95.tre" "881_mare.tre" "881_mare.pdf" "881.tre" "881.list" "881.good_with_tree.list" "881.good.list" "153_gene_trees_over60spp/" "131.tre" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/Brent/" (23531 63848 0 0) "transitions.csv" "raw_data/" "need-setting-costs.csv" ".DS_Store" "../" "./")
+
+ ("/Users/" (23135 13597 0 0) "Shared/" "Seb/" "macports/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/Brent/raw_data/" (23529 46021 0 0) "transitions.csv" "need-setting-costs - 2018 - Final v2.csv" "need-setting-costs - 2017 - Final v2.csv" "need-setting-costs - 2016 - Final v2.csv" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/" (23529 45980 0 0) "TH/" "sen2/" "README.md" "mastodonc/" "ESCC/" "Ealing/" "Brent/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.ap/" (23524 29513 0 0) "src/" "README.md" "nbs/" "environment.yml" "data/" ".gitignore" ".gitattributes" ".git/" ".DS_Store" ".dir-locals.el" "../" "./")
+
+ ("/Users/Seb/code/witan.ap/src/tutu/" (23524 29065 0 0) "utils.py" "sim.py" "scenarioplotlib.py" "models/" "dates.py" "__init__.py" "../" "./")
+
+ ("/Users/Seb/code/witan.ap/src/" (23524 29065 0 0) "validate.py" "tutu/" "test/" "scenarios.py" "main.py" "docs/" "costs.py" ".flake8rc" "../" "./")
+
+ ("/Users/Seb/code/" (23524 29062 0 0) "zeus-prototype/" "witan.workspace-executor/" "witan.workspace-api/" "witan.send-runs/" "witan.send/" "witan.r.models/" "witan.phyrexian/" "witan.models.econscratch/" "witan.models.demography/" "witan.httpapi/" "witan.gwyn/" "witan.disco/" "witan.asc/" "witan.ap/" "witan-seb-vpn/" "watershed/" "twitter-sentimentanalysis/" "test-cljtools/" "terraboot-witan/" "steamweb.clj/" "steamie.window/" "sparkling-getting-started/" "shiny-examples/" "shadow-tower/" "school-demand-to-capacity/" "sage-citations-prediction/" "RogueDarwin/" "rent-price-stats/" "quaker-computation/" "quaker/" "python_scratch/" "project-one/" "plywood/" "plato/" "parliamentary_text_analysis/" "package.json" "package-lock.json" "orgmode-babel-clojure-demo/" "Oct/" "node_modules/" "newick_utils/" "mydockerbuild/" "munge-camden/" "minimalbugexample/" "mental-health-dashboard/" "maws/" "mastodonc-ca/" "lein-jupyter-test/" "lein-jupyter/" "learning_dept_analysis/" "learn-onyx/" "kixi.weymouth/" "kixi.stats/" "kixi.pipe/" "kixi.heimdall/" "kixi.hecuba.weather/" "kixi.hecuba.onyx.weather/" "kixi.hecuba.onyx.measurements/" "kixi.hecuba/" "kixi.bridges/" "kixi.anm-monitoring/" "kixi.anm-backlog/" "kixi-data-science.wiki/" "kaylee-tools/" "incanter/" "hr-tutorial-repo/" "hl2b/" "herbie/" "hackney-vr/" "gorilla-test/" "gorilla-repl-master/" "fuster-cluck/" "eza/" "enlive-tutorial/" "employment-exploration/" "dotfiles/" "dippi/" "crajure/" "core.matrix/" "clojure-noob/" "clojure-intro/" "circle.yml" "ch9-time-series/" "ch7-recommender-systems/" "ch5-big-data/" "ch4-classification/" "ch3-correlation/" "ch2-inference/" "ch1-statistics/" "c40/" "average-coverage/" "apache-maven-3.3.9/" "apache-cassandra-2.1.14/" "ansible-pi/" "anning/" "anglican/" "anagrams/" "an-media.loader/" "airsome/" ".mach/" ".DS_Store" "#test#" "../" "./")
+
+ ("/Users/Seb/code/witan.send/test/" (23202 27377 0 0) "witan/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/kixi.weymouth/test/kixi/" (23274 50644 0 0) "weymouth_test.clj" "../" "./")
+
+ ("/Users/Seb/code/kaylee-tools/org/" (23488 31615 0 0) "witan-kaylee-support.md" "sen2-runbook.md" "sen2-runbook-sales.md" "sen2-runbook-devs.md" "runbook-list.md" "kaylee-template.org" "kaylee-babel.org" "images/" ".#sen2-runbook-sales.md" "#sen2-runbook-sales.md#" "../" "./")
+
+ ("/Users/Seb/code/witan.phyrexian/test/witan/phyrexian/" (23493 57771 0 0) "sen2_processing_tool_test.clj" "ons_ingester_test.clj" "lfb_ingester_test.clj" "gss_harmonizer_test.clj" "dclg_ingester_test.clj" "camden_transitions_test.clj" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/Suffolk/" (23483 16466 0 0) "Suffolk.zip" "settings-config.edn" "results-settings/" "results-needs/" "needs-config.edn" "Makefile" "data/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/Tower-Hamlets-30-01-18/version-A/" (23501 54473 0 0) "validation/" "results-tidy/" "results-for-validation-repeat-Mikes/" "results/" "raw/" "data/" "config.edn" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/kixi.stats/src/kixi/stats/" (23506 64712 0 0) "test.cljc" "protocols.cljc" "math.cljc" "distribution.cljc" "digest.clj" "core.cljc" "#core.cljc#" "../" "./")
+
+ ("/Users/Seb/code/kixi.stats/src/kixi/" (22610 25215 0 0) "stats/" "../" "./")
+
+ ("/Users/Seb/code/kixi.stats/src/" (22610 25215 0 0) "kixi/" "../" "./")
+
+ ("/Users/Seb/code/kixi.stats/" (23506 64712 0 0) "test/" "target/" "src/" "README.md" "project.clj" "LICENSE" ".nrepl-port" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/Seb/code/kixi.stats/test/" (22610 25215 0 0) "kixi/" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/Ealing/" (23504 34523 0 0) "data/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/" (23493 58906 0 0) "Worcestershire_SEN2/" "West_Sussex_SEN2/" "towerhamlets/" "Tower_Hamlets_SEN2/" "Tower-Hamlets-SEND-inputs-2017-11-21.zip" "Tower-Hamlets-SEND-inputs-2017-11-21/" "Tower-Hamlets-input-2018-01-15.zip" "Tower-Hamlets-input-2018-01-15/" "Tower-Hamlets-30-01-18.zip" "Tower-Hamlets-30-01-18/" "test_data/" "template/" "Sutton_SEN2/" "Suffolk_SEN2/" "Suffolk/" "Southwark_SEN2/" "Rotherham_SEN2/" "Oxfordshire_SEN2/" "North_Tyneside_SEN2/" "North_Lincolnshire/" "Newcastle_upon_Tyne_test/" "Lancashire_test/" "Lancashire_SEN2/" "Hertfordshire_SEN2/" "Harrow_SEN2/" "Haringey_SEN2/" "Hampshire_SEN2/" "Hackney_SEN2/" "Gateshead_SEN2/" "ESCC/" "East Sussex/" "demo/" "Darlington/" "Croydon_SEN2/" "camden_raw_dec_2017/" "camden_june_2017.zip" "camden_june_2017/" "Brent_SEN2/" "ap_test/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/sen2/Havering/" (23501 62016 0 0) "settings-config.edn" "results-settings/" "results-needs/" "needs-config.edn" "Makefile" "Havering.zip" "data/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/North_Lincolnshire/" (23493 49609 0 0) "settings-config.edn" "results-settings/" "results-needs/" "needs-config.edn" "Makefile" "data/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/Tower-Hamlets-30-01-18/version-A/data/" (23492 44984 0 0) "valid-setting-academic-years.csv" "transitions.csv" "settings-to-modify-scenario-2.csv" "settings-to-modify-scenario-1.csv" "send-population.csv" "population.csv" "need-setting-costs.csv" "../" "./")
+
+ ("/Users/Seb/code/witan.send/src/" (23488 32093 0 0) "clj/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/test/witan/" (23483 13423 0 0) "send/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/Suffolk_SEN2/" (23479 32834 0 0) "settings-config.edn" "results-settings/" "results-needs/" "needs-config.edn" "Makefile" "data/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/Tower-Hamlets-30-01-18/" (23358 1977 0 0) "version-B/" "version-A/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/target/" (23475 32852 0 0) "uberjar/" "default/" "../" "./")
+
+ ("/Users/Seb/code/witan.send/.git/" (23475 32799 0 0) "update.sh" "refs/" "packed-refs" "ORIG_HEAD" "objects/" "logs/" "index" "hooks/" "HEAD" "FETCH_HEAD" "config" "COMMIT_EDITMSG" "../" "./")
+
+ ("/Users/Seb/code/hackney-vr/data/" (23457 3169 0 0) "data-download.py" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.phyrexian/target/Suffolk/" (23459 31177 0 0) "settings-config.edn" "needs-config.edn" "Makefile" "data/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/untitled/" (23475 30495 0 0) "results-021018/" "data/" "config.edn" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.phyrexian/data/data_to_ingest/" (23347 36677 0 0) "sen2_statements/" "ons_popn_projections/" "dclg_household_model_inputs/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.phyrexian/data/" (23431 60120 0 0) "transitions.csv" "test.csv" "test/" "SEN-6YearCompare 2012 to 2017.csv" "Local_Authority_District_to_County_December_2017_Lookup_in_England.csv" "lfb_historical_fire_non_residential.csv" "LFB Incident data from Jan 2013-Mar 2016.xlsx" "LFB Incident data from Jan 2013-Mar 2016-1.csv" "harmonization/" "data_to_ingest/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/sen2/Brent/" (23413 39419 0 0) ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.phyrexian/target/" (23448 57741 0 0) "witan.phyrexian-0.1.1-SNAPSHOT.jar" "West Sussex/" "Tower Hamlets/" "test" "Sutton/" "Suffolk/" "stale/" "settings-config.edn" "Rotherham/" "population.csv" "needs-config.edn" "Makefile" "Lancashire/" "Harrow/" "Hampshire/" "Greenwich.txt" "Greenwich/" "foo/" "Ealing/" "Durham_old/" "Durham.txt" "default+test+test/" "default/" "data/" "Darlington.txt" "Croydon/" "classes/" "base+system+user+dev/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/test-cljtools/" (23128 52112 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/Seb/code/test-cljtools/src/test_cljtools/" (23128 50690 0 0) "core.clj" "../" "./")
+
+ ("/Users/Seb/code/dippi/src/dippi/" (23128 61339 0 0) "core.clj" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/Darlington/" (23401 53840 0 0) "settings-config.edn" "results-settings-modify-joiners/" "results-settings/" "results-needs/" "needs-config.edn" "data/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/ESCC/" (23418 55876 0 0) "Total_Population.pdf" "results-partial-data/" "partial-data-config.edn" "Output_Count.csv" "data/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/kaylee-tools/" (23439 47218 0 0) "scripts/" "org/" "macosx/" "images/" ".git/" ".DS_Store" "-.txt" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/ESCC/" (23418 34854 0 0) "results-partial-data/" "partial-data-config.edn" "data/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/ESCC/results-partial-data/" (23418 34854 0 0) "transitions.edn" "Total_Population.pdf" "Total_Cost.pdf" "Special_Setting_Counts.pdf" "Settings_Trends_4.pdf" "Settings_Trends_3.pdf" "Settings_Trends_2.pdf" "Settings_Trends_1.pdf" "Setting_Type_Counts.pdf" "SEND_Log.md" "runtime-metadata.edn" "runtime-config.edn" "Output_Setting.csv" "Output_Need.csv" "Output_Count.csv" "Output_Cost.csv" "Output_AY_State.csv" "Output_AY_Group.csv" "Output_AY.csv" "Need_Trends.pdf" "NCY_Population_Trends.pdf" "Leaver_Probability.pdf" "Joiner_Transitions.pdf" "Joiner_Probability.pdf" "Historic_Transitions_2017.pdf" "Historic_Transitions_2016.pdf" "Historic_Transitions_2015.pdf" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/sen2/Barking_and_Dagenham/" (23401 56377 0 0) "settings-config.edn" "results-settings/" "results-needs/" "needs-config.edn" "Makefile" "data/" "Barking_and_Dagenham.zip" "../" "./")
+
+ ("/Users/Seb/code/witan.send/src/clj/witan/" (23409 25348 0 0) "send/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/Darlington/data/" (23401 45615 0 0) "valid-settings.csv" "valid-needs.csv" "transitions-settings.csv" "transitions-needs.csv" "population.csv" "modify-settings.csv" "costs-settings.csv" "costs-needs.csv" "../" "./")
+
+ ("/Users/Seb/code/witan.send-runs/test/" (23401 41480 0 0) "Makefile" "Barnet/" "Barking_and_Dagenham/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/src/clj/" (23119 41822 0 0) "witan/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/steamie.window/src/steamie/" (23115 42542 0 0) "window.clj" "database.clj" "bayesian.clj" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/West_Sussex_SEN2/" (23393 49842 0 0) "results/" "data/" "config.edn" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.phyrexian/test/witan/" (22461 54119 0 0) "phyrexian/" "../" "./")
+
+ ("/Users/Seb/code/witan.send/data/Lancashire_SEN2/" (23392 30816 0 0) "results/" "data/" "config.edn" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/.emacs.d/elpa/" (23382 61063 0 0) "yasnippet-0.12.2/" "with-editor-2.7.1/" "use-package-2.3/" "spinner-1.7.3/" "smex-3.0/" "sesman-20180719.213/" "seq-2.20/" "s-1.12.0/" "rainbow-delimiters-2.1.3/" "queue-0.2/" "pyvenv-20180304.712/" "projectile-0.14.0/" "pos-tip-0.4.6/" "pkg-info-0.6/" "peg-0.6/" "paredit-24/" "multiple-cursors-1.4.0/" "markdown-mode-20180124.138/" "magit-popup-2.12.2/" "magit-2.11.0/" "ivy-20180305.1340/" "inflections-2.5/" "ido-vertical-mode-0.1.6/" "hydra-0.14.0/" "highlight-symbol-1.3/" "highlight-indentation-20171218.137/" "gnupg/" "git-commit-2.11.0/" "flycheck-pos-tip-0.3/" "flycheck-clojure-20170221.1354/" "flycheck-31/" "flx-ido-0.6.1/" "flx-0.6.1/" "find-file-in-project-20180224.2103/" "exec-path-from-shell-1.11/" "epl-0.8/" "elpygen-20171225.936/" "elpy-readme.txt" "elpy-20180302.2001/" "elpy-1.18.0/" "edn-20160215.419/" "diminish-0.45/" "dash-20180118.743/" "company-0.9.4/" "clojure-mode-extra-font-locking-readme.txt" "clojure-mode-5.6.1/" "clojure-mode-20180709.648/" "clj-refactor-20180708.57/" "clj-refactor-2.3.1/" "cider-readme.txt" "cider-20180723.2337/" "cider-0.17.0/" "cider-0.16.0/" "bind-key-2.3/" "async-20180119.533/" "archives/" "aggressive-indent-1.9.0/" "../" "./")
+
+ ("/Users/Seb/code/terraboot-witan/" (23390 59147 0 0) "test/" "terraform/" "target/" "src/" "scripts/" "resources/" "README.md" "project.clj" "docs/" ".lein-repl-history" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/Seb/code/witan.send/src/R/" (23391 2437 0 0) "send-charts.R" "comparative-plot-population.R" "comparative-plot-cost.R" "comparative-charts.R" ".Rhistory" ".RData" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/.lein/" (23381 43225 0 0) "self-installs/" "repl-port" "repl-history" "profiles.clj" "credentials.clj.gpg" "credentials.clj" "../" "./")
+
+ ("/Users/Seb/.ssh/" (23355 9916 0 0) "witan-prod.pem" "ops-terraboot.pem" "known_hosts" "id_rsa.pub" "id_rsa" "github_rsa.pub" "github_rsa" "config" "../" "./")
+
+ ("/Users/Seb/.aws/" (23073 11732 0 0) "etc/" "credentials" "config" "../" "./")
+
+ ("/Users/Seb/code/ch4-classification/" (23086 52689 0 0) "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "data/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/Seb/code/employment-exploration/" (23090 51016 0 0) "Untitled.ipynb" "test/" "target/" "src/" "Somer_Valley-arima-sectors.csv" "sector_subarea_arima.r" "Rural-arima-sectors.csv" "Rplots.pdf" "resources/" "regional-share.clj" "README.md" "project.clj" "pop-growth.clj" "pom.xml" "plots.zip" "plots/" "per-sector-regression" "LICENSE" "Keynsham-arima-sectors.csv" "IDBR.clj" "IDBR-sector.clj" "idbr-businesses.clj" "gva.clj" "employment-exploration.Rproj" "education.clj" "doc/" "data_exploration.r" "data/" "City-arima-sectors.csv" "CHANGELOG.md" "BPE.clj" "arima.R" "arima-sectors.csv" "arima-sectors-from-subarea.csv" ".Rproj.user/" ".Rhistory" ".RData" ".ipynb_checkpoints/" ".gitignore" ".git/" ".DS_Store" "#project.clj#" "../" "./")
+
+ ("/Users/Seb/code/steamie.window/test/steamie/" (23054 8208 0 0) "window_test.clj" "../" "./")
+
+ ("/Users/Seb/code/munge-camden/test/munge_camden/" (23087 50338 0 0) "core_test.clj" "../" "./")
+
+ ("/Users/Seb/code/witan.send/notebooks/" (23350 23198 0 0) "rate_heatmap.ipynb" "leavers.csv" "joiners.csv" ".ipynb_checkpoints/" "../" "./")
+
+ ("/Users/Seb/code/hackney-vr/notebooks/" (23372 30729 0 0) "utils/" "Untitled.ipynb" "tenancy-sustainment-pandas-profiling.ipynb" "temporary-accomodation-exploration.ipynb" "ta-service-questions.ipynb" "survival_test.ipynb" "stratified_profiles.ipynb" "short_term.png" "sankey_plot.ipynb" "rent_balances.ipynb" "rent-balances-pandas-profiling.ipynb" "rates_comp.png" "output_24_0.png" "notebook.tex" "non_homeless_hh.ipynb" "modeling-glm-housing-benefits.ipnyb" "join-ASC-CSC.ipynb" "housing-benefits.ipynb" "homeless_count.png" "heatmap-examples.ipynb" "hb-pandas-profiling.ipnyb" "hb-event-timelines.ipynb" "crosstab_example.ipynb" "Counts_of_clustered_homeless_households.png" "count.png" "consistent_homelessness.ipynb" "clustering-homeless.ipynb" "ASC-CSC-rent-sustainment.ipynb" "all-historical-claims-eda.ipynb" "60%_investigation.ipynb" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/hackney-vr/notebooks/utils/" (23372 30729 0 0) "utils.py" "test_utils.py" "join_datasets.py" "generate_tenanancy_sustainment_history.py" "crosstab.py" "__pycache__/" "__init__.py" "#utils.py#" "../" "./")
+
+ ("/Users/Seb/code/witan.send/src/cljs/witan/" (23033 58957 0 0) "send/" "../" "./")
+
+ ("/Users/Seb/code/witan.send/src/cljs/" (23033 58957 0 0) "witan/" "../" "./")
+
+ ("/Users/Seb/code/witan.send/src/cljc/" (23033 58957 0 0) "witan/" "../" "./")
+
+ ("/Users/Seb/code/witan.send/src/cljc/witan/" (23033 58957 0 0) "send/" "../" "./")
+
+ ("/Users/Seb/code/witan.phyrexian/test/" (23347 36657 0 0) "witan/" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
+
+ ("/Users/Seb/code/witan.phyrexian/src/witan/" (23090 39586 0 0) "phyrexian/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

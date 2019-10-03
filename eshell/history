@@ -1,0 +1,18 @@
+ls
+cd code/
+ls
+less circle.yml 
+vi circle.yml 
+cd code/
+less circle.yml 
+l
+ls
+lein repl :connect $(curl "http://masters.staging.witan.mastodonc.net/marathon/v2/apps/kixi.heimdall/tasks" 2> /dev/null | jq '.tasks[].host' | head -n 1 | xargs echo):10011
+cd ~/code/kixi.heimdall/
+lein repl :connect $(curl "http://masters.staging.witan.mastodonc.net/marathon/v2/apps/kixi.heimdall/tasks" 2> /dev/null | jq '.tasks[].host' | head -n 1 | xargs echo):10011
+lein repl :connect $(curl "http://masters.prod.witan.mastodonc.net/marathon/v2/apps/kixi.heimdall/tasks" 2> /dev/null | jq '.tasks[].host' | head -n 1 | xargs echo):10011
+cd ../../..
+cd ..
+lein test
+lein test
+lein test
